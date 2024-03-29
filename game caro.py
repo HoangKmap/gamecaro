@@ -1,6 +1,4 @@
 import tkinter as tk 
-win = tk.Tk()
-win.title('Python GUI')
 import random 
 bang = {1: ' ', 2: ' ', 3: ' ',
         4: ' ', 5: ' ', 6: ' ',
